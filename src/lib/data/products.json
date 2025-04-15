@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Tシャツ",
+    "description": "ロゴ入りTシャツ",
+    "price": 2500,
+    "imageUrl": ""
+  },
+  {
+    "id": 2,
+    "name": "マグカップ",
+    "description": "ロゴ入りマグカップ",
+    "price": 1500,
+    "imageUrl": ""
+  },
+  {
+    "id": 3,
+    "name": "ステッカー",
+    "description": "ロゴ入りステッカー",
+    "price": 300,
+    "imageUrl": ""
+  }
+]
